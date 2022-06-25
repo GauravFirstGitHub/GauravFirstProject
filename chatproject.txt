@@ -1,3 +1,5 @@
 chat application
 login form
 registration
+forget password
+add new request
