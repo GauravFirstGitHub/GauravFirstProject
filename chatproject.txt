@@ -4,3 +4,5 @@ registration
 forget password
 add new request
 guest
+payment option
+send money
